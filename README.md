@@ -1,2 +1,2 @@
 # movie-recommendation-system
-A content based movie recommender system using cosine similarity
+A movie recommender system using TMDB dataset (content-based filtering in Python).
